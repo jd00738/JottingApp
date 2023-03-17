@@ -1,2 +1,3 @@
-# NotesApp
-Laravel based notes taking app
+# JottinApp
+
+Laravel based notes taking app for everyone
